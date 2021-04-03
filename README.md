@@ -18,6 +18,14 @@
 * Juntas Strings
 * Transformar uma cadeira de palavras em Array
 
+## Funções
+
+* Criar uma Função Anônima
+* Criar uma Função Arrow
+* Retorno implícito ( função em 1 linha )
+* Passar parâmetros "infinitos" para uma função
+* Usar parâmetros padrão para caso não sejam passados
+
 ## Arrays
 
 **_Cada Exercício deve haver um console.log para enterder o resultado._**
@@ -45,11 +53,3 @@
 * Juntar Objetos com o **__assign__** criando e não criando um novo Objeto
 * Usar o **__spread__** para juntar Objetos
 * Usar o **__valor__** de uma variável como chave
-
-## Funções
-
-* Criar uma Função Anônima
-* Criar uma Função Arrow
-* Retorno implícito ( função em 1 linha )
-* Passar parâmetros "infinitos" para uma função
-* Usar parâmetros padrão para caso não sejam passados
