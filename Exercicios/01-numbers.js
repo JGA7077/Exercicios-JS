@@ -1,11 +1,25 @@
-/*
+// Cada Exercício deve haver um console.log para enterder o resultado.
 
-Cada Exercício deve haver um console.log para enterder o resultado.
+// -------------------------------------------------------------------------
+// 1-Verificar se é inteiro
 
-* Verificar se é inteiro
-* Calcular uma média variante
-* Mostrar só duas casas decimais
-* Converter para binário
-* Calcular a área de um círculo π x r²
 
-*/
+
+// -------------------------------------------------------------------------
+// 2-Calcular uma média variante
+
+
+
+// -------------------------------------------------------------------------
+// 3-Mostrar só duas casas decimais
+
+
+
+// -------------------------------------------------------------------------
+// 4-Converter para binário
+
+
+
+// -------------------------------------------------------------------------
+//  5-Calcular a área de um círculo π x r²
+

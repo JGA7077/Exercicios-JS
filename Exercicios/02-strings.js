@@ -1,13 +1,22 @@
-/*
+// Cada Exercício deve haver um console.log para enterder o resultado.
 
-Cada Exercício deve haver um console.log para enterder o resultado.
+// -------------------------------------------------------------------------
+// 1-Achar a letra pelo índice
 
-* Achar a letra pelo índice
-* Código Unicode da letra
-* Saber o índice a partir da letra
-* Extrair pedaço da string
-* Substituir as letras
-* Juntas Strings
-* Transformar uma cadeira de palavras em Array
+// -------------------------------------------------------------------------
+// 2-Código Unicode da letra
 
-*/
+// -------------------------------------------------------------------------
+// 3-Saber o índice a partir da letra
+
+// -------------------------------------------------------------------------
+// 4-Extrair pedaço da string
+
+// -------------------------------------------------------------------------
+// 5-Substituir as letras
+
+// -------------------------------------------------------------------------
+// 6-Juntas Strings
+
+// -------------------------------------------------------------------------
+// 7-Transformar uma cadeira de palavras em Array

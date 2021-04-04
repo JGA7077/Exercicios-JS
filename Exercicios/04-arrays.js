@@ -1,16 +1,32 @@
-/*
+// Cada Exercício deve haver um console.log para enterder o resultado.
 
-Cada Exercício deve haver um console.log para enterder o resultado.
 
-* Criar Array e imprimir o segundo elemento
-* Adicionar um elemento em um índice distante
-* Mostrar tamanho do Array
-* Adicionar elemento ao final
-* Adicionar elemento ao início
-* Eliminar elemento pelo índice
-* Eliminar o último elemento
-* Eliminar o 2° e 3° elemento
-* Eliminar o 1° elemento
-* Somar o Array
+// -------------------------------------------------------------------------
+// 1-Criar Array e imprimir o segundo elemento
 
-*/
+// -------------------------------------------------------------------------
+// 2-Adicionar um elemento em um índice distante
+
+// -------------------------------------------------------------------------
+// 3-Mostrar tamanho do Array
+
+// -------------------------------------------------------------------------
+// 4-Adicionar elemento ao final
+
+// -------------------------------------------------------------------------
+// 5-Adicionar elemento ao início
+
+// -------------------------------------------------------------------------
+// 6-Eliminar elemento pelo índice
+
+// -------------------------------------------------------------------------
+// 7-Eliminar o último elemento
+
+// -------------------------------------------------------------------------
+// 8-Eliminar o 2° e 3° elemento
+
+// -------------------------------------------------------------------------
+// 9-Eliminar o 1° elemento
+
+// -------------------------------------------------------------------------
+// 10-Somar o Array
