@@ -2,6 +2,8 @@
 
 ## Numbers
 
+**_Cada Exercício deve haver um console.log para enterder o resultado._**
+
 * Verificar se é inteiro
 * Calcular uma média variante
 * Mostrar só duas casas decimais
@@ -9,6 +11,8 @@
 * Calcular a área de um círculo **__π x r²__**
 
 ## Strings
+
+**_Cada Exercício deve haver um console.log para enterder o resultado._**
 
 * Achar a letra pelo índice
 * Código Unicode da letra
@@ -19,6 +23,8 @@
 * Transformar uma cadeira de palavras em Array
 
 ## Funções
+
+**_Cada Exercício deve haver um console.log para enterder o resultado._**
 
 * Criar uma Função Anônima
 * Criar uma Função Arrow
