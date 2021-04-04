@@ -1,8 +1,17 @@
-# Exercícios Propostos
+# Exercícios de JS
 
-## Numbers
+Esse repositório foi criado para servir como base de exercícios em JS, tanto para aprender quanto para revisar, já que sem praticar podemos esquecer facilmente :sweat_smile:
+Sintam-se a vontade para forkear ou sugerir novos exercícios.  :v:
 
-**_Cada Exercício deve haver um console.log para enterder o resultado._**
+**_Não é necessário conhecimento avançado nem intermediário para fazer os exercícios, mas com um pouco de conhecimento e pesquisas, você conseguirá resolvê-os, ou até, formar outros exercícios._**
+
+**_Os Exercícios não estão listados por dificuldade, estão enumerados apenas como forma de organização_**
+
+## Temas
+
+**_Sugiro que cada exercício use o console.log ou o que preferir para acompanhar as etapas de seu código e enterder melhor o resultado._**
+
+### Numbers
 
 * Verificar se é inteiro
 * Calcular uma média variante
@@ -10,9 +19,7 @@
 * Converter para binário
 * Calcular a área de um círculo **__π x r²__**
 
-## Strings
-
-**_Cada Exercício deve haver um console.log para enterder o resultado._**
+### Strings
 
 * Achar a letra pelo índice
 * Código Unicode da letra
@@ -22,9 +29,7 @@
 * Juntas Strings
 * Transformar uma cadeira de palavras em Array
 
-## Funções
-
-**_Cada Exercício deve haver um console.log para enterder o resultado._**
+### Funções
 
 * Criar uma Função Anônima
 * Criar uma Função Arrow
@@ -32,9 +37,7 @@
 * Passar parâmetros "infinitos" para uma função
 * Usar parâmetros padrão para caso não sejam passados
 
-## Arrays
-
-**_Cada Exercício deve haver um console.log para enterder o resultado._**
+### Arrays
 
 * Criar Array e imprimir o segundo elemento
 * Adicionar um elemento em um índice distante
@@ -47,9 +50,7 @@
 * Eliminar o 1° elemento
 * Somar o Array
 
-## Objetos
-
-**_Cada Exercício deve haver um console.log para enterder o resultado._**
+### Objetos
 
 * Criar Objeto e imprimir o segundo elemento
 * Adicionar um elemento a mais

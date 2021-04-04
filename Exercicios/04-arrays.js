@@ -6,6 +6,7 @@
 
 // -------------------------------------------------------------------------
 // 2-Adicionar um elemento em um índice distante
+// Ex.: Adicionar um elemento no índice 100
 
 // -------------------------------------------------------------------------
 // 3-Mostrar tamanho do Array

@@ -11,6 +11,8 @@
 
 // -------------------------------------------------------------------------
 // 4-Passar parâmetros "infinitos" para uma função
+// Ex.: Realizar uma função que some todos os parâmetros, independente de quantos sejam passados.
 
 // -------------------------------------------------------------------------
-// 5-Usar parâmetros padrão para caso não sejam passados
+// 5-Usar parâmetros padrões para caso não sejam passados
+// Ex.: Caso não seja passado algum parâmetro pedido, o mesmo deve receber o valor de "0"
