@@ -26,8 +26,8 @@ Sintam-se a vontade para forkear ou sugerir novos exercícios.  :v:
 * Saber o índice a partir da letra
 * Extrair pedaço da string
 * Substituir as letras
-* Juntas Strings
-* Transformar uma cadeira de palavras em Array
+* Juntar Strings
+* Transformar uma cadeia de palavras em Array
 
 ### Funções
 
