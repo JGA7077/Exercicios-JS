@@ -27,7 +27,7 @@ Sintam-se a vontade para forkear ou sugerir novos exercícios.  :v:
 * Extrair pedaço da string
 * Substituir as letras
 * Juntar Strings
-* Transformar uma cadeia de letras em Array
+* Transformar uma cadeia de palavras em Array
 
 ### Funções
 
