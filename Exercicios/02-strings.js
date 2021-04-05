@@ -19,4 +19,4 @@
 // 6-Juntar Strings
 
 // -------------------------------------------------------------------------
-// 7-Transformar uma cadeia de palavras em um Array
+// 7-Transformar uma cadeia de letras em um Array
